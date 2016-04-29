@@ -1,0 +1,17 @@
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\bin\Debug\CSHARP_SQLITE_CRUD.exe.config
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\bin\Debug\CSHARP_SQLITE_CRUD.exe
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\bin\Debug\CSHARP_SQLITE_CRUD.pdb
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\bin\Debug\EntityFramework.dll
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\bin\Debug\System.Data.SQLite.dll
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\bin\Debug\EntityFramework.xml
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\bin\Debug\System.Data.SQLite.xml
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\obj\Debug\CSHARP_SQLITE_CRUD.csprojResolveAssemblyReference.cache
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\obj\Debug\CSHARP_SQLITE_CRUD.Form1.resources
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\obj\Debug\CSHARP_SQLITE_CRUD.Properties.Resources.resources
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\obj\Debug\CSHARP_SQLITE_CRUD.csproj.GenerateResource.Cache
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\obj\Debug\CSHARP_SQLITE_CRUD.exe
+c:\users\tiago\documents\visual studio 2015\Projects\CSHARP_SQLITE_CRUD\CSHARP_SQLITE_CRUD\obj\Debug\CSHARP_SQLITE_CRUD.pdb
